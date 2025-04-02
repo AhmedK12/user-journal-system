@@ -1,0 +1,6 @@
+[submodule "journal-service"]
+	path = journal-service
+	url = https://github.com/AhmedK12/journal-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/AhmedK12/user-service.git
